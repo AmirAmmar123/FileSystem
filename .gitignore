@@ -1,0 +1,6 @@
+*.pdf
+*.gz
+.idea/
+cmake-build-debug/
+*.zip/
+bin/
